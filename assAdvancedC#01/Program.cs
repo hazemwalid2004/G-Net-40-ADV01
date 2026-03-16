@@ -1,4 +1,5 @@
 ﻿using Microsoft.VisualBasic;
+using System;
 using System.ComponentModel;
 using System.Data;
 using System.Runtime.InteropServices;
@@ -70,6 +71,10 @@ namespace assAdvancedC_01
             //What does the 'default' keyword do in generics?
             //deturns the default value for type T
             #endregion
+            #region Question14
+            //Write a SafeList<T> that returns default when the index is invalid.
+            #endregion
+
         }
     }
 }
