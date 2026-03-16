@@ -1,4 +1,5 @@
-﻿using System.ComponentModel;
+﻿using Microsoft.VisualBasic;
+using System.ComponentModel;
 using System.Data;
 using System.Runtime.InteropServices;
 using System.Security.Cryptography.X509Certificates;
@@ -60,6 +61,10 @@ namespace assAdvancedC_01
             // T  must inherit from a specific base class. 
             //var T = new EXBaseclass<A>();//not valid becouse A don't inhert from Person
             //var T = new EXBaseclass<male>();// male is inhert from person
+            #endregion
+            #region Question12
+            //How do you apply multiple constraints? Write an example
+            //we apply class\struct first then iterface and the last is new()
             #endregion
         }
     }
