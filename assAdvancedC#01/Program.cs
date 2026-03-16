@@ -66,6 +66,10 @@ namespace assAdvancedC_01
             //How do you apply multiple constraints? Write an example
             //we apply class\struct first then iterface and the last is new()
             #endregion
+            #region Question13
+            //What does the 'default' keyword do in generics?
+            //deturns the default value for type T
+            #endregion
         }
     }
 }
