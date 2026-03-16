@@ -45,6 +45,12 @@ namespace assAdvancedC_01
             // var A = new EXClass<int>(50);//not valid becouse the generic class has a class constraint on it 
             //var A = new EXClass<String>("Hazem");//valid
             #endregion
+            #region Question9
+            //What is the 'new()' constraint? Write an example
+            //must T to have a public parameterless constructor
+            //var S = new EXNew<A>();
+            //S.create();//valid becouse A has a parameterless constructor
+            #endregion
         }
     }
 }
