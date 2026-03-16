@@ -39,6 +39,12 @@ namespace assAdvancedC_01
             // var A = new EXStruct<int>(50);//valid 
             //var A = new EXStruct<String>("Hazem");//Not valid becouse the generic class has a constraint struct on it
             #endregion
+            #region Question8
+            //What is the 'class' constraint? Write an example.
+            //T is referance type only 
+            // var A = new EXClass<int>(50);//not valid becouse the generic class has a class constraint on it 
+            //var A = new EXClass<String>("Hazem");//valid
+            #endregion
         }
     }
 }
