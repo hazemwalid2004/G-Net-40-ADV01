@@ -89,6 +89,11 @@ namespace assAdvancedC_01
             //use T output only // use T input only
             //child -> parent // parent -> child
             #endregion
+            #region Question18
+            //How do static members work in generic types?
+            //each eneric type has its own copy of static fields
+            //List<int> , List<double> have a seperate static data
+            #endregion
         }
     }
 }
