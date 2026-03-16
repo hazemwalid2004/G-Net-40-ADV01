@@ -99,6 +99,9 @@ namespace assAdvancedC_01
             //if it generic class too we use the same T 
             //if it Concrete class we use specific type
             #endregion
+            #region Question20
+            //create a generic Cache<TKey, TValue>with Add, Get, Remove, Contains, and expiration support. 
+            #endregion
         }
     }
 }
