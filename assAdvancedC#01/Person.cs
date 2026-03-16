@@ -1,0 +1,25 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace assAdvancedC_01
+{
+    internal class Person
+    {
+        public int Id { get; set; } 
+        public void speak()
+        {
+            Console.WriteLine("hi");
+        }
+    }
+    internal class male:Person
+    {
+
+    }
+    internal class female : Person
+    {
+
+    }
+}
