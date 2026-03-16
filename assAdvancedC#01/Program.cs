@@ -94,6 +94,11 @@ namespace assAdvancedC_01
             //each eneric type has its own copy of static fields
             //List<int> , List<double> have a seperate static data
             #endregion
+            #region Question19
+            // How can you inherit from a generic class?
+            //if it generic class too we use the same T 
+            //if it Concrete class we use specific type
+            #endregion
         }
     }
 }
