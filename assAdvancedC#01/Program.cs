@@ -79,6 +79,11 @@ namespace assAdvancedC_01
             //use a more derived type than originally specified
             //T can only appear in output positions
             #endregion
+            #region Question16
+            //What is contravariance? Explain the 'in' keyword
+            //use a less derived type than originally specified
+            //T can only appear in input positions
+            #endregion
 
         }
     }
