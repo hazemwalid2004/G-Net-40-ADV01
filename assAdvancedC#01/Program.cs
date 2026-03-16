@@ -84,7 +84,11 @@ namespace assAdvancedC_01
             //use a less derived type than originally specified
             //T can only appear in input positions
             #endregion
-
+            #region Question17
+            //What is the difference between covariance and contravariance
+            //use T output only // use T input only
+            //child -> parent // parent -> child
+            #endregion
         }
     }
 }
