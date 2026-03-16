@@ -55,6 +55,12 @@ namespace assAdvancedC_01
             // What is the interface constraint? Write an example.
             //Must T to implement a specific interface
             #endregion
+            #region Question11
+            //What is the base class constraint? Write an example
+            // T  must inherit from a specific base class. 
+            //var T = new EXBaseclass<A>();//not valid becouse A don't inhert from Person
+            //var T = new EXBaseclass<male>();// male is inhert from person
+            #endregion
         }
     }
 }
