@@ -16,6 +16,10 @@ namespace assAdvancedC_01
             #region Qustion2
             // Write a generic class Container<T> with Add and Get methods.
             #endregion
+            #region Question3
+            //What are multiple type parameters? Write Pair<TKey, TValue>.
+            //generic class have multiple type parameters
+            #endregion
         }
     }
 }
