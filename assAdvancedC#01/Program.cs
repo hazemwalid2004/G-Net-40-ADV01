@@ -24,6 +24,9 @@ namespace assAdvancedC_01
             //What is a generic method? Write Swap<T> method.
             //declares its own type parameter
             #endregion
+            #region Question5
+            //Write a generic method FindMax<T> that finds maximum value
+            #endregion
         }
     }
 }
