@@ -74,6 +74,11 @@ namespace assAdvancedC_01
             #region Question14
             //Write a SafeList<T> that returns default when the index is invalid.
             #endregion
+            #region Question15
+            // What is covariance? Explain the 'out' keyword
+            //use a more derived type than originally specified
+            //T can only appear in output positions
+            #endregion
 
         }
     }
