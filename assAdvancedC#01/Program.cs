@@ -51,6 +51,10 @@ namespace assAdvancedC_01
             //var S = new EXNew<A>();
             //S.create();//valid becouse A has a parameterless constructor
             #endregion
+            #region Question10
+            // What is the interface constraint? Write an example.
+            //Must T to implement a specific interface
+            #endregion
         }
     }
 }
