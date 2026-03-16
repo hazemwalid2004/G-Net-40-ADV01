@@ -20,6 +20,10 @@ namespace assAdvancedC_01
             //What are multiple type parameters? Write Pair<TKey, TValue>.
             //generic class have multiple type parameters
             #endregion
+            #region Question4
+            //What is a generic method? Write Swap<T> method.
+            //declares its own type parameter
+            #endregion
         }
     }
 }
